@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE contaopackage>
+<extension name="contao_article_teaser_overview" date="20150220">
+    <author user="revision6" name="revision6 Internetagentur" website="https://www.revision6.de/" />
+    <copyright>© 2015 revision6</copyright>
+    <license>MIT</license>
+    <classification type="free" category="plugin" />
+    <release version="10000000" build="1" date="20150220" />
+    <contao minversion="30020089" maxversion="30020089" />
+    <language code="de">
+        <translator user="revision6" name="revision6 Internetagentur" website="https://www.revision6.de/" />
+        <searchtags>Artikel,Liste,Teaser</searchtags>
+        <title>ArticleList</title>
+        <teaser>Inhaltselement zum Einfügen beliebiger Artikel oder Seiten als Liste</teaser>
+        <description>&lt;p&gt;&lt;/p&gt;</description>
+        <releasenotes>&lt;h4&gt;1.0.0&lt;/h4&gt;
+            &lt;ul&gt;
+            &lt;li&gt;Initial release&lt;/li&gt;
+            &lt;/ul&gt;</releasenotes>
+        <manual link="https://github.com/revision6/contao-article-teaser-overview" />
+        <forum link="" />
+        <shop link="" />
+    </language>
+</extension>
